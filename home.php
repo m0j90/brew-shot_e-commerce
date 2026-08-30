@@ -62,6 +62,7 @@ DATE: July 20-21, 2026 -->
 <body>
 
     <?php
+        $page_home = 'home';
         include 'header.php';
     ?>
 
