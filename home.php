@@ -84,6 +84,7 @@ DATE: July 20-21, 2026 -->
     <?php include 'photo-albums.php' ?>
 
         <?php
+            $page_userfooter = 'user footer';
             include 'footer.php';
         ?>
 
