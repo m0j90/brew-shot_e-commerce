@@ -1,0 +1,170 @@
+[
+    {
+        "id": "prod_6a6023099cacc",
+        "name": "Chicken Pesto",
+        "category": "Pasta",
+        "price": "215.00",
+        "image_url": "uploads\/chickenpesto.png",
+        "created_at": "2026-07-22 09:55:21"
+    },
+    {
+        "id": "prod_6a618bbc4d0a2",
+        "name": "Cafe Latte",
+        "category": "Coffee",
+        "price": "125.00",
+        "image_url": "uploads\/cafelatte-iced.png",
+        "created_at": "2026-07-23 11:34:20"
+    },
+    {
+        "id": "prod_6a61da6f961b0",
+        "name": "Americano",
+        "category": "Coffee",
+        "price": "120.00",
+        "image_url": "uploads\/americano-cold.png",
+        "created_at": "2026-07-23 17:10:07"
+    },
+    {
+        "id": "prod_6a649077e4a96",
+        "name": "Italian Meatballs",
+        "category": "Pasta",
+        "price": "205.00",
+        "image_url": "uploads\/italianmeatballs.png",
+        "created_at": "2026-07-25 18:31:19"
+    },
+    {
+        "id": "prod_6a6c38a034c9f",
+        "name": "Sea Salt Latte",
+        "category": "Coffee",
+        "price": "150.00",
+        "image_url": "uploads\/seasaltlatte.png",
+        "created_at": "2026-07-31 13:54:40"
+    },
+    {
+        "id": "prod_6a6c38e6981a1",
+        "name": "Strawberry Creme",
+        "category": "Non Coffee",
+        "price": "180.00",
+        "image_url": "uploads\/strawberrycreme.png",
+        "created_at": "2026-07-31 13:55:50"
+    },
+    {
+        "id": "prod_6a6c3903039e2",
+        "name": "Strawberry Matcha",
+        "category": "Non Coffee",
+        "price": "165.00",
+        "image_url": "uploads\/strawberrymatcha.png",
+        "created_at": "2026-07-31 13:56:19"
+    },
+    {
+        "id": "prod_6a6c392dd9c26",
+        "name": "Biscoff",
+        "category": "Croffles",
+        "price": "135.00",
+        "image_url": "uploads\/biscoff.png",
+        "created_at": "2026-07-31 13:57:01"
+    },
+    {
+        "id": "prod_6a6c394668ed1",
+        "name": "Chocolate",
+        "category": "Croffles",
+        "price": "135.00",
+        "image_url": "uploads\/chocolate.png",
+        "created_at": "2026-07-31 13:57:26"
+    },
+    {
+        "id": "prod_6a6c39575a596",
+        "name": "Strawberry",
+        "category": "Croffles",
+        "price": "135.00",
+        "image_url": "uploads\/strawberry.png",
+        "created_at": "2026-07-31 13:57:43"
+    },
+    {
+        "id": "prod_6a6c399ac1c6d",
+        "name": "Chocolate Chip",
+        "category": "Blended Cream",
+        "price": "185.00",
+        "image_url": "uploads\/chocolatechip.png",
+        "created_at": "2026-07-31 13:58:50"
+    },
+    {
+        "id": "prod_6a6c39b546b5b",
+        "name": "Creamy Strawberry",
+        "category": "Blended Cream",
+        "price": "165.00",
+        "image_url": "uploads\/creamystrawberry.png",
+        "created_at": "2026-07-31 13:59:17"
+    },
+    {
+        "id": "prod_6a6c3b56f23a1",
+        "name": "Burnt Cheesecake",
+        "category": "Cake",
+        "price": "195.00",
+        "image_url": "uploads\/burntcheesecake.png",
+        "created_at": "2026-07-31 14:06:14"
+    },
+    {
+        "id": "prod_6a6c3b6ccca5e",
+        "name": "Red Velvet Cake",
+        "category": "Cake",
+        "price": "170.00",
+        "image_url": "uploads\/redvelvetcake.png",
+        "created_at": "2026-07-31 14:06:36"
+    },
+    {
+        "id": "prod_6a6c3b8ede022",
+        "name": "Choco Walnut",
+        "category": "Cookies",
+        "price": "100.00",
+        "image_url": "uploads\/chocowalnut.png",
+        "created_at": "2026-07-31 14:07:10"
+    },
+    {
+        "id": "prod_6a6c3b9fb30ee",
+        "name": "Dark Choco",
+        "category": "Cookies",
+        "price": "100.00",
+        "image_url": "uploads\/darkchoco.png",
+        "created_at": "2026-07-31 14:07:27"
+    },
+    {
+        "id": "prod_6a6c3bad51a9f",
+        "name": "Matcha",
+        "category": "Cookies",
+        "price": "110.00",
+        "image_url": "uploads\/matcha.png",
+        "created_at": "2026-07-31 14:07:41"
+    },
+    {
+        "id": "prod_6a6c3bbc26b4a",
+        "name": "Red Velvet",
+        "category": "Cookies",
+        "price": "100.00",
+        "image_url": "uploads\/redvelvet.png",
+        "created_at": "2026-07-31 14:07:56"
+    },
+    {
+        "id": "prod_6a6c3bcd4d81b",
+        "name": "Muffins",
+        "category": "Muffins",
+        "price": "100.00",
+        "image_url": "uploads\/muffins.png",
+        "created_at": "2026-07-31 14:08:13"
+    },
+    {
+        "id": "prod_6a6c3be03df27",
+        "name": "Classic",
+        "category": "Tiramisu Cake",
+        "price": "175.00",
+        "image_url": "uploads\/classic.png",
+        "created_at": "2026-07-31 14:08:32"
+    },
+    {
+        "id": "prod_6a6c3bf3858eb",
+        "name": "Matcha Misu",
+        "category": "Tiramisu Cake",
+        "price": "190.00",
+        "image_url": "uploads\/matchamisu.png",
+        "created_at": "2026-07-31 14:08:51"
+    }
+]

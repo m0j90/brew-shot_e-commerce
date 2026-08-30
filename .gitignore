@@ -1,0 +1,32 @@
+# Ignore macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon_
+._*
+
+# Ignore sensitive configuration files (passwords, API keys)
+.env
+.env.local
+*.pem
+*.key
+
+# Ignore large log files and system caches
+*.log
+.cache/
+
+# Ignore dependency folders (Bootstrap / JS libraries)
+node_modules/
+bower_components/
+
+# Ignore PHP composer dependencies
+vendor/
+
+# Ignore local server configurations and uploads
+.htaccess
+uploads/
+*.log
+
+# Ignore package lock files (optional, depends on preference)
+npm-debug.log*
+yarn-error.log*

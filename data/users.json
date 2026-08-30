@@ -1,0 +1,16 @@
+[
+    {
+        "id": "usr_6a5e4af83217e",
+        "fullname": "Jerome Zabanal",
+        "email": "jerome.zabanal@gmail.com",
+        "gender": "Male",
+        "country": "Philippines",
+        "home_address": "Caloocan City",
+        "dob": "January, 1, 2000",
+        "graduate_school": "Valenzuela Senior High School",
+        "education_level": "High School",
+        "username": "@user01",
+        "password_hash": "$2y$10$uTqLHXLw8fwnvl1FMha4kObR1RaB0qxvo8XyoT3NwGfeCZPnrSrUG",
+        "created_at": "2026-07-20 18:21:12"
+    }
+]
